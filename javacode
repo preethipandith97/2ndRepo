@@ -1,0 +1,6 @@
+this is java code
+class java{
+    public static void main(string arg[]){
+	System.out.println("hello world");
+	}
+}
