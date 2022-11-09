@@ -1,6 +1,5 @@
-this is java code
 class java{
-    public static void main(string arg[]){
-	System.out.println("hello world");
-	}
+	static public void main(str{args]){
+		system.out.println("hello world");
+		}
 }
