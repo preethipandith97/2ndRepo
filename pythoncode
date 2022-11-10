@@ -1,1 +1,3 @@
 print "welcome to python"
+print(" pythoncode file in branch1 branch")
+print("lets check the merge status")
